@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "GTG Lime Plus Crosshair",
+    "description": "An Open Source, MIT Licensed Project Giving you a dot crosshair for precision",
+    "uuid": "b52541f0-6aa8-e86b-7ba6-4fe011d9299d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7ed957be-0d04-f4bb-eaa9-d738c36b818e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "ghgltggamer"
+    ],
+    "url": "https://youtube.com/@ghgltggamer"
+  }
+}
